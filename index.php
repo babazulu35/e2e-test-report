@@ -1,0 +1,1 @@
+<?php header( 'Location: reports/1526905161955/mochawesome.html' ) ;  ?>
